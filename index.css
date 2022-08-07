@@ -1,0 +1,37 @@
+#container {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 45px;
+}
+
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9 {
+    width: 80px;
+    height: 52px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#but {
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid blue;
+    margin: auto;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#print {
+    color: blue;
+    font-size: 20px;
+}
